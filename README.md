@@ -1,7 +1,7 @@
 # sql-sentry
 A MySQL proxy that programmatically computes possible SQL patterns from a Go application and compares live DB traffic against these patterns.
 
-The analyzer is built on top of Stripe's (safesql static analyzer)[https://github.com/stripe/safesql].
+The analyzer is built on top of Stripe's [safesql static analyzer](https://github.com/stripe/safesql).
 
 ## TODO
 * Vendoring
